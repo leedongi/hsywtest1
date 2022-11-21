@@ -19,3 +19,6 @@ div.banner > table > tbody > tr > th { width:315px; height:130px; border:1px sol
 div.banner > table > tbody > tr > th > a { display:block; width:100%; height:100%; }
 div.banner > table > tbody > tr > th > a > h3 { padding-top:35px; }
 div.banner > table > tbody > tr > th > a > h4 { line-height:0px; }
+
+div.hmephoto > div.line { width:450px; height:15px; }
+div.hmephoto > div.line > div { width:100%; height:3px; background-color:rgba(25, 25, 25, 1); }
