@@ -6,4 +6,6 @@ img { vertical-align:middle; }
 img.logo { height:80px; }
 img.title { height:40px; margin-left:20px; }
 
-div.body { display:inline-block; padding-top:180px; width:980px; margin:0 auto; text-align:center; }
+div.body { padding-top:180px; width:980px; margin:0 auto; text-align:center; }
+div.banner > tbody > tr > th { width:315px; height:130px; border:1px solid #aaa; }
+div.banner > tbody > tr > th :nth-child(2) { padding:0px 10px 0px 10px; }
