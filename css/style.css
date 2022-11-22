@@ -21,7 +21,7 @@ div.banner > table > tbody > tr > th > a { display:block; width:100%; height:100
 div.banner > table > tbody > tr > th > a > h3 { padding-top:35px; }
 div.banner > table > tbody > tr > th > a > h4 { line-height:0px; }
 
-div.hmephoto { margin-top:20px; }
-div.hmephoto > div.line { display:inline-block; width:450px; height:7px; }
-div.hmephoto > div.line > div { width:100%; height:2px; background-color:rgba(90, 90, 90, 1); }
-div.hmephoto > div.wording { width:50px; display:inline-block; }
+div.hmephoto, div.hmeposts { margin-top:20px; height:300px; }
+div.line { display:inline-block; width:450px; height:7px; }
+div.line > div { width:100%; height:2px; background-color:rgba(90, 90, 90, 1); }
+div.wording { width:68px; display:inline-block; }
